@@ -1,0 +1,78 @@
+{
+  "bot-account": {
+    "username": "rootjoltzdev20",
+    "password": "",
+    "type": "offline"
+  },
+  "server": {
+    "ip": "hunterhailzz.aternos.me",
+    "port": 46590,
+    "try-creative": false
+  },
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "CHANGE_ME"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 120,
+      "messages": [
+        "I'm a regular player",
+        "I like to play Minecraft!",
+        "Just hanging out",
+        "Nice server!"
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 3000,
+    "max-reconnect-delay": 120000
+  },
+  "movement": {
+    "enabled": true,
+    "circle-walk": {
+      "enabled": true,
+      "radius": 5,
+      "speed": 5000
+    },
+    "look-around": {
+      "enabled": true,
+      "interval": 8000
+    },
+    "random-jump": {
+      "enabled": true,
+      "interval": 15000
+    }
+  },
+  "modules": {
+    "avoidMobs": true,
+    "combat": true,
+    "beds": false,
+    "chat": true,
+    "console-commands": true
+  },
+  "combat": {
+    "attack-mobs": true,
+    "auto-eat": true
+  },
+  "beds": {
+    "pick-up-day": false,
+    "place-night": false
+  },
+  "chat": {
+    "respond": true,
+    "tpWhitelist": ["YOUR_MINECRAFT_USERNAME"]
+  }
+}
