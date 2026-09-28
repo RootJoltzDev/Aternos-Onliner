@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "rootjoltzdev20",
+    "username": "BotUser 01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "hunterhailzz.aternos.me",
-    "port": 46590,
+    "ip": "ip.aternos.me",
+    "port": 00000,
     "try-creative": false
   },
   "position": {
