@@ -38,13 +38,13 @@ Edit `settings.json` before running:
 ```json
 {
   "bot-account": {
-    "username": "Heydada",
+    "username": "BotUser 01",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "4realwilly.aternos.me",
-    "port": 36016,
+    "ip": "ip.aternos.me",
+    "port": 00000,
     "try-creative": false
   }
 }
